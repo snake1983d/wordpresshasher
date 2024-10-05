@@ -1,5 +1,5 @@
 <?php
-// Definisci la costante ABSPATH (modifica il percorso in base alla tua installazione)
+// Definisci la costante ABSPATH (puoi modificare in base alle tue cartelle)
 if ( !defined('ABSPATH') ) {
     define('ABSPATH', dirname(__FILE__));
 }
