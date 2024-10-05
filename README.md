@@ -1,5 +1,6 @@
 # wordpresshasher
 Wordpress password hasher connects to pluggable.php and hashes a plain text password then shows it.
+Works with wordpress 6.6.2 (don't know if work with previous or future release)
 
 WordPress Password Hash Generator
 This project demonstrates how to use WordPress's built-in password hashing function, wp_hash_password(), in an external PHP script to generate hashed passwords. The script interacts with the core WordPress files to securely hash a user-provided password via a simple HTML form.
